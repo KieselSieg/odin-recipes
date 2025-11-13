@@ -1,2 +1,2 @@
 # odin-recipes
-Below, write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it
+This project is the result of what, and *only* what, I've learned through the basics of HTML from The Odin Project. It consists of a homepage containing a list of links to some recipes I like. Hopefully, this project should attest my knowledge on HTML basics, like anchor, images, paragraphs, headings, and other elements, and proper semantics. Thank you TOP <3
