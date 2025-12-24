@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(172, 166, 120);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+h1, h2 {
+    color: white;
+    margin-bottom: 0px;
+}
+
+div {
+    background-color: rgb(127, 131, 143);
+    padding: 10px;
+    border-style: double;
+    border-color: rgb(255, 255, 255);
+    border-width: 8px;
+    color: white;
+    width: 580px;
+}
+
+li {
+    background-color: rgb(255, 255, 255);
+    padding: 10px;
+    margin: 8px;
+    border-radius: 5px;
+    color: rgb(0, 0, 0);
+    width: 450px;
+}
